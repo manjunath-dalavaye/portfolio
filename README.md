@@ -6,5 +6,4 @@
 <hr style="width: 25%;">
 
 <h2>portfolio overview :-</h2>
-![Uploading portfolio.png…]()
-<hr>
+<img width="940" alt="port" src="https://github.com/manjunath-dalavaye/portfolio/assets/111382056/1f7de7c9-98d8-43ac-99a7-7f248e41486a">

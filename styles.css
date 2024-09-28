@@ -36,6 +36,7 @@ body{
 .header-area{
   padding:25px 0;
   transition: padding .3s;
+  height: 45px;
 }
 
 .header-area.sticky {
@@ -326,6 +327,11 @@ profile-photo .img{
   padding: 625px 0;
   /* color:#fff;  */
 }
+
+.project {
+  margin-bottom: 30px; /* Adds gap between the cards */
+}
+
 .project-title{
   margin-bottom: 60px;
   text-align: center;
